@@ -1,3 +1,7 @@
+# About this fork
+The point of this fork is to figure out how to get the stolon chart working on Kubernetes 1.6. The original 
+README follows...
+
 # Helm chart to install Stolon (HA PostgreSQL cluster)
 
 > Stolon is a cloud native PostgreSQL manager for PostgreSQL high availability.
